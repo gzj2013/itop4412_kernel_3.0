@@ -1,0 +1,7 @@
+kernel/sound/soc/snd-soc-core.ko
+kernel/sound/soc/codecs/snd-soc-wm8960.ko
+kernel/sound/soc/samsung/snd-soc-s3c24xx.ko
+kernel/sound/soc/samsung/snd-soc-i2s.ko
+kernel/sound/soc/samsung/snd-soc-audss.ko
+kernel/sound/soc/samsung/snd-soc-idma.ko
+kernel/sound/soc/samsung/snd-soc-smdk-wm8960.ko
